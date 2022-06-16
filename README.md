@@ -1,3 +1,5 @@
+# Оригинальный репозиторий: <br> [VyacheslavPridchin/WildWood-Desktop](https://github.com/VyacheslavPridchin/WildWood-Desktop)
+
 #### Not maintained by developers. Не поддерживается разработчиками.
 
 <p align="center">
